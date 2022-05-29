@@ -14,7 +14,7 @@
 
 /* pading_top */
 .offers_area.padding_top{padding-top:100px}
-@media (max-width: 767px){.offers_area.padding_top{padding-top:40px}}
+@media (max-width: 767px){.offers_area.padding_top{padding-top:80px}}
 @media (min-width: 768px) and (max-width: 991px){.offers_area.padding_top{padding-top:80px}}
 @media (min-width: 992px) and (max-width: 1200px){.offers_area.padding_top{padding-top:80px}}
 
