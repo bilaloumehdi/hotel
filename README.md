@@ -1,5 +1,5 @@
 # hotel
-une application qui dégitalise un hotel :
+une application Web qui dégitalise un hotel :
 
 -----côté client: 
 
