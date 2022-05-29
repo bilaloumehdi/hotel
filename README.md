@@ -8,7 +8,7 @@ une application qui dégitalise un hotel :
 
 ------côté admin (directeur de l'hotel )-------
 
-email : Admin@Admin@gmail.com
+email : Admin@Admin.com
 mode de passe : 123
 
 -gérer les factures : il peut voir l'ensemble des factures payée ainsi que les statistiques concernant les entrees de chaque mois
