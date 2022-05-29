@@ -14,7 +14,7 @@ une application Web qui dégitalise un hotel :
 
 email : Admin@Admin.com
 
-      mode de passe : 123
+      mot de passe : 123
 
 -gérer les factures : il peut voir l'ensemble des factures payée ainsi que les statistiques concernant les entrees de chaque mois
 
